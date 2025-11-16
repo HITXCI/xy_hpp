@@ -1,6 +1,8 @@
 # xy_hpp
 This repository is the source of the hierarchical diffusion-based planner. Our framework was inspired by the "Diffusion-Based Planning for Autonomous Driving with Flexible Guidance". [link](https://github.com/ZhengYinan-AIR/Diffusion-Planner.git) And the framework is developed based on the Diffusion planner. We realeased the summary code as a record of our framework, which will be organized well in the future.
 
+![image](https://github.com/HITXCI/xy_hpp/blob/master/gifs/scenerio1.gif)
+
 # Environment Setup
 1. Setup the nuplan dataset following the official guidance.
 2. Setup the environment on Ubuntu 20.04
